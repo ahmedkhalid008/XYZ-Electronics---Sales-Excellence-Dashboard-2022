@@ -1,3 +1,20 @@
+
+
+<img width="482" height="271" alt="Screenshot 2026-02-01 230417" src="https://github.com/user-attachments/assets/3cd251c9-482f-4a6a-9c90-1075360e1aad" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📱 XYZ Electronics: Sales Excellence Dashboard 2022
 
 ## 📝 Project Overview
@@ -22,6 +39,10 @@ The dashboard provides a clear visualization of the company's performance throug
 **Datewise Filtering:** Users can filter data between **1/8/2022** and **12/31/2022**
 **Overall Sales Ranking:** A dedicated chart showing the sales distribution by salesman
 **Regional Analysis:** Comparison of total sales amount by division
+
+
+
+#DataAnalytics #PowerBI #SalesDashboard #BusinessIntelligence #DataVisualization #Excel #Portfolio
 
 
 ## 📈 Tools Used
